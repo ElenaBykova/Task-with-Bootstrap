@@ -1,0 +1,32 @@
+/*.row > div {
+  border: 3px solid tomato;
+}*/
+.logo_header {
+  width: 200px;
+  height: auto;
+  background-color: cadetblue;
+  float: left;
+  margin-bottom: 20px;
+}
+.menu_header {
+  float: right;
+}
+.carousel {
+  position: relative;
+  width: 45%;
+  margin: 0px auto;
+}
+.container {
+  width: 1170px;
+  margin: 20px auto;
+}
+.aligment {
+  text-align: center;
+}
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 0px 30px;
+  font-size: 18px;
+  line-height: 20px;
+}
